@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10859" started-at="2019-10-04T10:31:12Z" finished-at="2019-10-04T10:31:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10859" started-at="2019-10-04T10:31:12Z" finished-at="2019-10-04T10:31:23Z">
+      <class name="com.nullkode.automation.web.tests.ExampleTest">
+        <test-method status="PASS" signature="navigateToTwitterHomeUsingChrome()[pri:0, instance:com.nullkode.automation.web.tests.ExampleTest@14acaea5]" name="navigateToTwitterHomeUsingChrome" duration-ms="2248" started-at="2019-10-04T18:31:12Z" finished-at="2019-10-04T18:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTwitterHomeUsingChrome -->
+        <test-method status="PASS" signature="navigateToTwitterHomeUsingEdge()[pri:0, instance:com.nullkode.automation.web.tests.ExampleTest@14acaea5]" name="navigateToTwitterHomeUsingEdge" duration-ms="1788" started-at="2019-10-04T18:31:14Z" finished-at="2019-10-04T18:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTwitterHomeUsingEdge -->
+        <test-method status="PASS" signature="navigateToTwitterHomeUsingFirefox()[pri:0, instance:com.nullkode.automation.web.tests.ExampleTest@14acaea5]" name="navigateToTwitterHomeUsingFirefox" duration-ms="3884" started-at="2019-10-04T18:31:16Z" finished-at="2019-10-04T18:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTwitterHomeUsingFirefox -->
+        <test-method status="PASS" signature="navigateToTwitterHomeUsingSafari()[pri:0, instance:com.nullkode.automation.web.tests.ExampleTest@14acaea5]" name="navigateToTwitterHomeUsingSafari" duration-ms="2917" started-at="2019-10-04T18:31:20Z" finished-at="2019-10-04T18:31:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTwitterHomeUsingSafari -->
+      </class> <!-- com.nullkode.automation.web.tests.ExampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
